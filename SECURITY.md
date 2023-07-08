@@ -1,1 +1,1 @@
-Please see https://github.com/containerd/project/blob/master/SECURITY.md
+Please see https://github.com/containerd/project/blob/main/SECURITY.md
